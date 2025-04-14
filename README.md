@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I'm Currently working on:<br>"Currently, I am delving into the world of web development."<br><br>🤖 I'm Looking to collaborate on:<br>"I am looking for opportunities to collaborate with professionals."<br><br>🧠 Currently: <br>"At the moment, I am learning Modern Web Development ."<br><br>🧐 Ask Me about:<br>"Ask me about web development."<br><br>💻 Passionate:<br>"Web Development – currently working with **Laravel 11**"
+😎 I'm Currently working on:<br>"Currently, I am delving into the world of Web Development."<br><br>🤖 I'm Looking to collaborate on:<br>"I am looking for opportunities to collaborate with others."<br><br>🧠 Currently: <br>"At the moment, I am learning Modern Web Development ."<br><br>🧐 Ask Me about:<br>"Ask me about Web Development."<br><br>💻 Passionate:<br>"Web Development – currently working with **Laravel 11**"
 
 
 ## 🌐 Socials:
