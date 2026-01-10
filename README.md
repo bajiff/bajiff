@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baji</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
-😎 I'm Currently working on:<br>"Currently, I am delving into the world of Web Development and Bug Hunter."<br><br>🤖 I'm Looking to collaborate on:<br>"I am looking for opportunities to collaborate with others."<br><br>🧠 Currently: <br>"At the moment, I am learning Modern Web Development and Bug Hunter."<br><br>🧐 Ask Me about:<br>"Ask me about Web Development and Offensive Pentest."<br><br>💻 Passionate:<br>"Web Development – currently working with **ReactJS**"
+😎 I'm Currently working on:<br>"Currently, I am delving into the world of Web Development and Security Test."<br><br>🤖 I'm Looking to collaborate on:<br>"I am looking for opportunities to collaborate with others."<br><br>🧠 Currently: <br>"At the moment, I am learning Modern Web Development and Security Test."<br><br>🧐 Ask Me about:<br>"Ask me about Web Development and Security Test."<br><br>💻 Passionate:<br>"Web Development – currently working with **ReactJS**"
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/guster.guster.9619) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bajif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagus-aji-fernando-466347286) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bajif.tiktok) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_bajif) 
