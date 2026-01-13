@@ -55,19 +55,8 @@
 
   <!-- STATS TITLE -->
   <h3>📊 GitHub Stats</h3>
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=bajiff&show_icons=true&theme=dark&hide_border=true" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajiff&theme=dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=compact&theme=dark&hide_border=true" />
-</div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=bajiff&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
 </div>
 
