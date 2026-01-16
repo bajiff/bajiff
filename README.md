@@ -56,7 +56,7 @@
   <!-- STATS TITLE -->
   <h3>📊 GitHub Stats</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=bajiff&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=bajiff&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
