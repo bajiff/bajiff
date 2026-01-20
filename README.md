@@ -61,7 +61,6 @@
   </a>
   <h3>🎮 Just For Fun</h3>
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
-  <img src="https://profile-counter.glitch.me/_bajiff/count.svg" />
   <img src="https://profile-counter.glitch.me/bajiff/count.svg" alt="Visitor Count" />
 
 
