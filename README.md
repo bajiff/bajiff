@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <br/>
 
+
   <!-- STATS TITLE -->
   <h3>📊 GitHub Stats</h3>
   <a href="https://git.io/streak-stats">
@@ -61,8 +62,7 @@
   </a>
   <h3>🎮 Just For Fun</h3>
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
+  <a href="https://u8views.com/github/bajiff"><img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg"></a>  
   <img src="https://profile-counter.glitch.me/bajiff/count.svg" alt="Visitor Count" />
-
-
 </div>
 
