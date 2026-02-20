@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Baji</h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
+  </a>
+</div>
+
 <div align="justify">
 
 😎 <strong>I'm Currently working on:</strong><br/>
@@ -65,4 +69,6 @@
   <a href="https://u8views.com/github/bajiff"><img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg"></a>  
   <img src="https://profile-counter.glitch.me/bajiff/count.svg" alt="Visitor Count" />
 </div>
+
+![](https://readme-typing-svg.herokuapp.com.)
 
