@@ -67,7 +67,6 @@
   <h3>🎮 Just For Fun</h3>
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
   <a href="https://u8views.com/github/bajiff"><img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg"></a>  
-  <img src="https://profile-counter.glitch.me/bajiff/count.svg" alt="Visitor Count" />
 </div>
 
 ![](https://readme-typing-svg.herokuapp.com.)
