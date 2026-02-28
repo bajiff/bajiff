@@ -1,29 +1,18 @@
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div align="center">
+  <img src="giphy2.gif" style="border-radius: 10px;">
+</div>
+<div align="center" style="border-bottom: none;">
+  <h1>
+    
+  </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
+    <img style="width:100%;"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="justify">
-
-😎 <strong>I'm Currently working on:</strong><br/>
-"Currently, I am delving into the world of Web Development and Security Test."
-
-🤖 <strong>I'm Looking to collaborate on:</strong><br/>
-"I am looking for opportunities to collaborate with others."
-
-🧠 <strong>Currently:</strong><br/>
-"At the moment, I am learning Modern Web Development and Security Test."
-
-🧐 <strong>Ask Me about:</strong><br/>
-"Ask me about Web Development and Security Test."
-
-💻 <strong>Passionate:</strong><br/>
-"Web Development – currently working with <strong>ReactJS</strong>"
-
-</div>
-
-<h3 align="center">🌐 Socials</h3>
+<h2 align="center">🌐 Socials</h2>
 
 <p align="center">
   <a href="https://facebook.com/guster.guster.9619">
@@ -41,6 +30,7 @@
   <a href="https://x.com/_bajif">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
   </a>
+
 </p>
 
 
