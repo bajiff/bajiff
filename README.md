@@ -55,6 +55,7 @@
     <a href="https://x.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="X"/></a>
     <a href="https://www.instagram.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
     <a href="mailto:mr.baji.smart@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+    <a href="discordapp.com/users/1254050945923416124"><img src="https://img.icons8.com/fluent/48/000000/discord.png" alt="Discord"/></a>
     <a href="https://www.tiktok.com/@bajif.tiktok"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="X"/></a>
     <div>
       <img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg">
