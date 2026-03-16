@@ -1,63 +1,68 @@
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div align="center">
   <img src="giphy2.gif" style="border-radius: 10px;">
-</div>
-<div align="center" style="border-bottom: none;">
-  <h1>
-    
-  </h1>
-  <a href="https://git.io/typing-svg">
-    <img style="width:100%;"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
-  </a>
-</div>
-
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://facebook.com/guster.guster.9619">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_bajif">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/bagus-aji-fernando-466347286">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@bajif.tiktok">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/>
-  </a>
-  <a href="https://x.com/_bajif">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
-  </a>
-
+  <img style="width:100%;"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
+<p>
+| Front-End Developer |
 </p>
-
-
-<h3 align="center">💻 Tech Stack</h3>
-<div align="center">
-  <!-- BADGES -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/pnpm-4a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<br/>
-
-
-  <!-- STATS TITLE -->
-  <h3>📊 GitHub Stats</h3>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=bajiff&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-  <h3>🎮 Just For Fun</h3>
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
-  <a href="https://u8views.com/github/bajiff"><img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg"></a>  
 </div>
+
+<div align="center">
+    <!-- BADGES -->
+  <h2 align="center">💻 Skills</h3>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48" alt="Cloudinary"/>
+
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+    
+  <!-- ? Stats -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 50%;">
+    <h2>📊 GitHub Stats</h3>
+    <div>
+      <img src="https://streak-stats.demolab.com?user=bajiff&theme=tokyonight" alt="GitHub Streak" />
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=bajiff&show_icons=true&theme=tokyonight" width="400"/>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=compact&theme=tokyonight" width="400"/>
+    </div>
+    
+  </div>
+
+  <!-- ? Fun -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; width: 50%;">
+    <h2>🎮 Just For Fun</h3>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  </div>
+  <div style="text-align: center;">
+    <h2 align="center">🌐 Connect with Me</h3>
+    <a href="https://www.linkedin.com/in/bagus-aji-fernando-466347286/">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/bajiff"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+    <a href="https://x.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="X"/></a>
+    <a href="https://www.instagram.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="mailto:mr.baji.smart@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+    <a href="https://www.tiktok.com/@bajif.tiktok"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="X"/></a>
+    <div>
+      <img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg">
+    </div>
+  </div>
+
+</div>
+
+
 
 ![](https://readme-typing-svg.herokuapp.com.)
-
