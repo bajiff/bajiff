@@ -28,7 +28,7 @@
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=bajiff&show_icons=true&theme=tokyonight" width="400" alt="Github Stats" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=compact&theme=tokyonight" width="400" alt="Github Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=donut-vertical&theme=tokyonight" width="400" alt="Github Top Langs" />
     <br><br>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Fun GIF"/>
   </div>
