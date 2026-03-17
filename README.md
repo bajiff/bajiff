@@ -22,7 +22,7 @@
     <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48" alt="Cloudinary"/>
   </div>
 
-  <h2>📊 GitHub Stats & 🎮 Just For Fun</h2>
+  <h2>📊 GitHub Stats</h2>
   <div>
     <img src="https://streak-stats.demolab.com?user=bajiff&theme=tokyonight" width="400" alt="GitHub Streak" />
     <br><br>
@@ -30,6 +30,9 @@
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=donut-vertical&theme=tokyonight" width="400" alt="Github Top Langs" />
     <br><br>
+  </div>
+  <div>
+    <h2>🎮 Just For Fun</h2>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Fun GIF"/>
   </div>
 
