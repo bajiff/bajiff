@@ -1,0 +1,21 @@
+{
+  "name": "bajiff",
+  "version": "1.0.0",
+  "description": "Baji Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajiff/bajiff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bajiff/bajiff/issues"
+  },
+  "homepage": "https://github.com/bajiff/bajiff#readme"
+}
