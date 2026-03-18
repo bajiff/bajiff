@@ -1,31 +1,90 @@
 <!DOCTYPE html>
-<html lang="en-US" dir="ltr">
+<html lang="id" data-theme="light">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../style.css">
-  <title>Day-5</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Web Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="logo">Portfo<span>lio.</span></a>
+            <nav class="nav-links">
+                <a href="#about">Tentang</a>
+                <a href="#skills">Keahlian</a>
+                <a href="#projects">Proyek</a>
+            </nav>
+            <button id="theme-toggle" class="btn-icon" aria-label="Toggle Dark Mode">
+                <span class="icon">🌓</span>
+            </button>
+        </div>
+    </header>
 
-  <form id="form-logistic" action="">
-    <label for="product">Product</label>
-      <input id="product" type="text" name="product" value="" autofocus required>
-    <label for="quantity">Quantity</label>
-      <input id="quantity" type="number" name="quantity" value="" required>
-    <button>Submit</button>
-  </form>
+    <main>
+        <section id="about" class="hero container reveal">
+            <div class="hero-content">
+                <p class="subtitle">Halo, Nama Saya Baji</p>
+                <h1>Membangun Pengalaman Web yang <span class="highlight">Elegan & Bersih</span></h1>
+                <p class="description">Saya seorang Web Developer yang berfokus pada penulisan kode yang bersih (clean code), tipografi yang presisi, dan antarmuka yang ramah pengguna.</p>
+                <div class="hero-actions">
+                    <a href="#projects" class="btn btn-primary">Lihat Proyek</a>
+                    <a href="#contact" class="btn btn-outline">Hubungi Saya</a>
+                </div>
+            </div>
+        </section>
 
-  <section >
-    <h1>Available List</h1>
-    <div id="available-list"></div>
-  </section>
+        <section id="skills" class="skills-section container reveal">
+            <div class="section-header">
+                <h2>Keahlian Utama</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="skills-grid">
+                <span class="skill-badge">HTML5 & CSS3</span>
+                <span class="skill-badge">JavaScript (ES6+)</span>
+                <span class="skill-badge">UI/UX Design</span>
+                <span class="skill-badge">Responsive Web Design</span>
+                <span class="skill-badge">Clean Code</span>
+            </div>
+        </section>
 
-  <section >
-    <h1>Soldout List</h1>
-    <div id="sold-list"></div>
-  </section>
-    
-  <script type="module" src="index.js" defer></script>
+        <section id="projects" class="projects-section container reveal">
+            <div class="section-header">
+                <h2>Karya Terbaru</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="project-grid">
+                <article class="project-card">
+                    <div class="card-img"></div>
+                    <div class="card-body">
+                        <span class="project-category">Web App</span>
+                        <h3>Sistem Manajemen</h3>
+                        <p>Aplikasi web komprehensif dengan fokus pada efisiensi dan keamanan data.</p>
+                        <a href="#" class="project-link">Lihat Detail →</a>
+                    </div>
+                </article>
+                <article class="project-card">
+                    <div class="card-img"></div>
+                    <div class="card-body">
+                        <span class="project-category">AI Integration</span>
+                        <h3>Aplikasi Chatbot</h3>
+                        <p>Integrasi layanan otomatis berbasis AI untuk meningkatkan interaksi pengguna.</p>
+                        <a href="#" class="project-link">Lihat Detail →</a>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <p>&copy; 2026 MyPortfolio. Dirancang dengan presisi dan kode yang bersih.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

@@ -1,0 +1,354 @@
+/* =========================================
+   1. Variabel CSS & Tema
+   ========================================= */
+:root {
+    /* Light Mode */
+    --primary-color: #ccff00;
+    --primary-glow: rgba(204, 255, 0, 0.4);
+    --bg-color: #f8f9fa;
+    --surface-color: #ffffff; /* Menggantikan --card-bg agar lebih universal */
+    --text-main: #212529;
+    --text-muted: #6c757d;
+    --text-on-primary: #000000;
+    --border-color: rgba(0, 0, 0, 0.08);
+    
+    /* Placeholder Gradient */
+    --placeholder-dark-1: #222222;
+    --placeholder-dark-2: #444444;
+}
+
+[data-theme="dark"] {
+    /* Dark Mode */
+    --primary-color: #dfff00;
+    --primary-glow: rgba(223, 255, 0, 0.3);
+    --bg-color: #121212;
+    --surface-color: #1e1e1e;
+    --text-main: #f8f9fa;
+    --text-muted: #adb5bd;
+    --border-color: rgba(255, 255, 255, 0.08);
+}
+
+/* =========================================
+   2. Reset & Konfigurasi Dasar
+   ========================================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth; /* Efek scroll halus untuk navigasi */
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.6;
+    transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+/* =========================================
+   3. Tipografi & Utilitas
+   ========================================= */
+h1, h2, h3 {
+    line-height: 1.2;
+    font-weight: 700;
+    color: var(--text-main);
+}
+
+/* .highlight {
+    color: var(--text-main);
+    background: linear-gradient(120deg, var(--primary-color) 0%, var(--primary-color) 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 30%;
+    background-position: 0 88%;
+} */
+
+.subtitle {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 16px;
+}
+
+/* =========================================
+   4. Komponen (Tombol, Badge, Header)
+   ========================================= */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: var(--text-on-primary);
+    border: 2px solid var(--primary-color);
+}
+
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px var(--primary-glow); /* Efek Profesional: Neon Glow */
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--text-main);
+    border: 2px solid var(--border-color);
+}
+
+.btn-outline:hover {
+    border-color: var(--text-main);
+    transform: translateY(-3px);
+}
+
+.section-header {
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+.section-header h2 {
+    font-size: 2.2rem;
+    margin-bottom: 16px;
+}
+
+.divider {
+    height: 4px;
+    width: 60px;
+    background-color: var(--primary-color);
+    margin: 0 auto;
+    border-radius: 2px;
+}
+
+/* =========================================
+   5. Layout (Navbar, Hero, dll)
+   ========================================= */
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: rgba(var(--bg-color), 0.8);
+    backdrop-filter: blur(10px); /* Efek profesional: Glassmorphism */
+    border-bottom: 1px solid var(--border-color);
+    padding: 16px 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--text-main);
+}
+
+.logo span {
+    color: var(--primary-color);
+}
+
+.nav-links {
+    display: flex;
+    gap: 32px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-muted);
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: var(--text-main);
+}
+
+.btn-icon {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+.btn-icon:hover {
+    background-color: var(--surface-color);
+}
+
+/* Hero Section */
+.hero {
+    padding: 120px 24px;
+    text-align: center;
+    max-width: 800px;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 24px;
+    letter-spacing: -1px;
+}
+
+.hero .description {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    margin-bottom: 40px;
+}
+
+.hero-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+/* Skills Section */
+.skills-section {
+    padding: 80px 24px;
+}
+
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+
+.skill-badge {
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 500;
+    color: var(--text-main);
+    transition: all 0.3s ease;
+}
+
+.skill-badge:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px var(--primary-glow);
+    transform: translateY(-2px);
+}
+
+/* Projects Section */
+.projects-section {
+    padding: 80px 24px 120px;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 32px;
+}
+
+.project-card {
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+.card-img {
+    height: 240px;
+    width: 100%;
+    background: linear-gradient(135deg, var(--placeholder-dark-1), var(--placeholder-dark-2));
+}
+
+.card-body {
+    padding: 32px;
+}
+
+.project-category {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+    display: inline-block;
+}
+
+.project-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+}
+
+.project-card p {
+    color: var(--text-muted);
+    margin-bottom: 24px;
+}
+
+.project-link {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--text-main);
+    display: inline-flex;
+    align-items: center;
+    transition: color 0.3s ease;
+}
+
+.project-link:hover {
+    color: var(--primary-color);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 32px 24px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+/* =========================================
+   6. Animasi JavaScript (Reveal)
+   ========================================= */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s cubic-bezier(0.5, 0, 0, 1);
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* =========================================
+   7. Responsivitas (Media Queries)
+   ========================================= */
+@media (max-width: 768px) {
+    .hero h1 { font-size: 2.5rem; }
+    .hero-actions { flex-direction: column; }
+    .nav-links { display: none; /* Sembunyikan menu di mobile, bisa ditambah hamburger menu nanti */ }
+}
