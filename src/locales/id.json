@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "projects": "Proyek",
+    "services": "Layanan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "Halo, Saya",
+    "name": "Baji",
+    "tagline": "Full-Stack Developer | IT Enthusiast | Computer Tutor",
+    "cta": "Hire Me",
+    "resume": "Unduh Resume"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "education": "Mahasiswa Teknik Informatika di Universitas Muhammadiyah Cirebon (UMC)",
+    "tutor": "Computer Tutor di Lilfatah Education",
+    "brand": "Menjalankan brand lokal Alzeasuke",
+    "hobby": "Tertarik pada pertanian rumahan dan teknologi"
+  },
+  "skills": {
+    "title": "Keahlian"
+  },
+  "projects": {
+    "title": "Proyek Saya",
+    "demo": "Demo",
+    "repo": "Repo"
+  },
+  "services": {
+    "title": "Layanan",
+    "items": [
+      {
+        "title": "Full-Stack Web Development",
+        "desc": "Membangun aplikasi web lengkap dari frontend hingga backend dengan teknologi modern."
+      },
+      {
+        "title": "Mobile App Development",
+        "desc": "Pengembangan aplikasi mobile cross-platform menggunakan Flutter dan React Native."
+      },
+      {
+        "title": "Chatbot Integration",
+        "desc": "Integrasi chatbot WhatsApp dan platform lain untuk automasi bisnis Anda."
+      },
+      {
+        "title": "Software Testing & QA",
+        "desc": "Pengujian aplikasi secara menyeluruh dengan functional testing dan API testing."
+      },
+      {
+        "title": "IT Mentoring & Tutoring",
+        "desc": "Bimbingan belajar pemrograman dan teknologi untuk pemula hingga menengah."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Saya",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim",
+    "sending": "Mengirim..."
+  },
+  "footer": {
+    "copyright": "Hak Cipta",
+    "socials": "Ikuti Saya"
+  }
+}

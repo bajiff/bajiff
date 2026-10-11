@@ -1,0 +1,44 @@
+{
+  "about": {
+    "id": [
+      "Mahasiswa Teknik Informatika di Universitas Muhammadiyah Cirebon (UMC)",
+      "Computer Tutor di Lilfatah Education",
+      "Menjalankan brand lokal Alzeasuke",
+      "Tertarik pada pertanian rumahan dan teknologi"
+    ],
+    "en": [
+      "Computer Science student at Universitas Muhammadiyah Cirebon (UMC)",
+      "Computer Tutor at Lilfatah Education",
+      "Running local brand Alzeasuke",
+      "Interested in home gardening and technology"
+    ]
+  },
+  "skills": {
+    "id": [
+      "ReactJS",
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "Flutter",
+      "SQLite",
+      "Git/GitHub",
+      "Linux Ubuntu",
+      "Postman/API testing",
+      "Functional testing",
+      "Team collaboration (PR, README documentation)"
+    ],
+    "en": [
+      "ReactJS",
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "Flutter",
+      "SQLite",
+      "Git/GitHub",
+      "Linux Ubuntu",
+      "Postman/API testing",
+      "Functional testing",
+      "Team collaboration (PR, README documentation)"
+    ]
+  }
+}

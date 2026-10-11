@@ -1,21 +1,34 @@
 {
-  "name": "bajiff",
-  "version": "1.0.0",
-  "description": "Baji Portfolio",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bajiff/bajiff.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "vigorous-venus",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/bajiff/bajiff/issues"
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
   },
-  "homepage": "https://github.com/bajiff/bajiff#readme"
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.3.8"
+  },
+  "devDependencies": {
+    "@astrojs/react": "^7.0.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/react": "^16.3.3",
+    "@typescript-eslint/eslint-plugin": "^8.71.1",
+    "@typescript-eslint/parser": "^8.71.1",
+    "astro-eslint-parser": "^3.2.0",
+    "autoprefixer": "^10.6.1",
+    "eslint": "^10.12.0",
+    "happy-dom": "^20.14.6",
+    "lucide-react": "^1.55.0",
+    "postcss": "^8.5.29",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4.3.3",
+    "vitest": "^5.0.3"
+  }
 }

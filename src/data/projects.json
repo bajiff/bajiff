@@ -1,0 +1,86 @@
+{
+  "id": [
+    {
+      "id": "bagym",
+      "title": "BaGYM",
+      "description": "Aplikasi manajemen gym dengan fitur membership, jadwal kelas, dan tracking progress member.",
+      "tech": ["Node.js", "Express.js", "SQLite", "React"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/bagym"
+    },
+    {
+      "id": "abot",
+      "title": "ABot",
+      "description": "Chatbot WhatsApp terintegrasi untuk Toko Aba Ratima dengan automasi response dan order tracking.",
+      "tech": ["Node.js", "WhatsApp API", "Express.js"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/abot"
+    },
+    {
+      "id": "abid-soreg",
+      "title": "Abid SoReg",
+      "description": "Aplikasi rental sound system dengan manajemen inventory, booking, dan invoicing.",
+      "tech": ["SQLite", "Python", "Flask"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/abid-soreg"
+    },
+    {
+      "id": "interactive-notes",
+      "title": "Interactive Notes App",
+      "description": "Aplikasi catatan interaktif dengan fitur tagging, search, dan export ke PDF.",
+      "tech": ["React", "TypeScript", "Tailwind CSS"],
+      "demo": "https://bajiff.github.io/interactive-notes",
+      "repo": "https://github.com/bajiff/interactive-notes"
+    },
+    {
+      "id": "keamanan-cirebon",
+      "title": "Proposal Sistem Keamanan",
+      "description": "Desain SOP dan sistem X-ray untuk Stasiun Cirebon dengan analisis risiko dan implementasi.",
+      "tech": ["Security Design", "SOP Documentation"],
+      "demo": "#",
+      "repo": "#"
+    }
+  ],
+  "en": [
+    {
+      "id": "bagym",
+      "title": "BaGYM",
+      "description": "Gym management application with membership features, class schedules, and member progress tracking.",
+      "tech": ["Node.js", "Express.js", "SQLite", "React"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/bagym"
+    },
+    {
+      "id": "abot",
+      "title": "ABot",
+      "description": "WhatsApp chatbot integrated for Aba Ratima Store with automated responses and order tracking.",
+      "tech": ["Node.js", "WhatsApp API", "Express.js"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/abot"
+    },
+    {
+      "id": "abid-soreg",
+      "title": "Abid SoReg",
+      "description": "Sound system rental application with inventory management, booking, and invoicing features.",
+      "tech": ["SQLite", "Python", "Flask"],
+      "demo": "#",
+      "repo": "https://github.com/bajiff/abid-soreg"
+    },
+    {
+      "id": "interactive-notes",
+      "title": "Interactive Notes App",
+      "description": "Interactive notes application with tagging, search, and PDF export features.",
+      "tech": ["React", "TypeScript", "Tailwind CSS"],
+      "demo": "https://bajiff.github.io/interactive-notes",
+      "repo": "https://github.com/bajiff/interactive-notes"
+    },
+    {
+      "id": "keamanan-cirebon",
+      "title": "Cirebon Station Security System",
+      "description": "SOP design and X-ray system proposal for Cirebon Station with risk analysis and implementation.",
+      "tech": ["Security Design", "SOP Documentation"],
+      "demo": "#",
+      "repo": "#"
+    }
+  ]
+}

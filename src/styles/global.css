@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+:root {
+  --neon-blue: #0055FF;
+  --neon-green: #00FF66;
+  --neon-red: #FF3333;
+  --neon-purple: #B026FF;
+  --neon-cyan: #39FF14;
+  --electric-yellow: #FFF000;
+  --hard-border: 3px;
+}
+
+@theme {
+  --color-neon-blue: var(--neon-blue);
+  --color-neon-green: var(--neon-green);
+  --color-neon-red: var(--neon-red);
+  --color-neon-purple: var(--neon-purple);
+  --color-neon-cyan: var(--neon-cyan);
+  --color-electric-yellow: var(--electric-yellow);
+  --shadow-hard-sm: 3px 3px 0px #000;
+  --shadow-hard-md: 5px 5px 0px #000;
+  --shadow-hard-lg: 8px 8px 0px #000;
+  --shadow-hard-inverse: -3px -3px 0px #000;
+  --font-space-mono: "Space Mono", monospace;
+  --font-courier: Courier, monospace;
+  --border-hard: var(--hard-border);
+}
+
+/* Base */
+html {
+  @apply scroll-smooth antialiased;
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02", "cv03";
+}
+
+body {
+  @apply bg-white text-black dark:bg-black dark:text-white;
+  transition: background-color 0.1s, color 0.1s; /* fast for neobrutalism */
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
