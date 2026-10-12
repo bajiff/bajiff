@@ -9,15 +9,6 @@
     ],
     "moduleResolution": "bundler",
     "esModuleInterop": true,
-    "baseUrl": "https://bajiff.vercel.app",
-    "paths": {
-      "@/*": [
-        "src/*"
-      ],
-      "@components/*": [
-        "src/components/*"
-      ]
-    },
     "jsx": "react-jsx",
     "jsxImportSource": "react"
   },
