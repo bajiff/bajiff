@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "bajiff",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -12,6 +12,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.3.8"
+    "@astrojs/react": "^7.0.1",
+    "@astrojs/ts-plugin": "^1.10.12",
+    "astro": "^7.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "allowScripts": {
+    "@astrojs/react": true,
+    "esbuild": true
   }
 }
