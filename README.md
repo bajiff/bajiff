@@ -1,55 +1,108 @@
-<div align="center">
-  <img src="giphy2.gif" style="border-radius: 10px;" alt="Welcome GIF">
-  <br>
-  <img style="width:100%;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Baji;Frontend+Developer;Andon+konon-konon+bae" alt="Typing SVG" />
-  <p>| Front-End Developer |</p>
+# Dark minimal
+> Highly customizable and performant portfolio template built with Astro, React, and Tailwind CSS.
 
-  <h2>💻 Skills</h2>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
-    <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-    <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-    <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48" alt="Cloudinary"/>
-  </div>
+<img width="1920" height="1080" alt="astro-portfolio" src="https://github.com/user-attachments/assets/0df80067-5fe2-4c24-90c4-4eb28e1a7508" />
 
-  <h2>📊 GitHub Stats</h2>
-  <div>
-    <img src="https://streak-stats.demolab.com?user=bajiff&theme=tokyonight" width="400" alt="GitHub Streak" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=bajiff&show_icons=true&theme=tokyonight" width="400" alt="Github Stats" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajiff&layout=donut-vertical&theme=tokyonight" width="400" alt="Github Top Langs" />
-    <br><br>
-  </div>
-  <div>
-    <h2>🎮 Just For Fun</h2>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Fun GIF"/>
-  </div>
+![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
-  <h2>🌐 Connect with Me</h2>
-  <div>
-    <a href="https://www.linkedin.com/in/bagus-aji-fernando-466347286/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://github.com/bajiff"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-    <a href="https://x.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="X"/></a>
-    <a href="https://www.instagram.com/_bajif"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-    <a href="mailto:mr.baji.smart@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-    <a href="https://discordapp.com/users/1254050945923416124"><img src="https://img.icons8.com/fluent/48/000000/discord.png" alt="Discord"/></a>
-    <a href="https://www.tiktok.com/@bajif.tiktok"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="TikTok"/></a>
-  </div>
-  
-  <br>
-  
-  <div>
-    <img src="https://u8views.com/api/v1/github/profiles/171104585/views/day-week-month-total-count.svg" alt="Profile Views">
-  </div>
-</div>
+---
+
+[Demo](https://darkminimal.vercel.app) | [Astro Themes](https://astro.build/themes/details/darkminimal/) | [ReactBits Showcase](https://www.reactbits.dev/showcase) 
+
+## **Features**
+- **Blazing fast performance** powered by Astro
+- **Beautifully styled** with Tailwind CSS
+- **Spotify integration** for showcasing your favorite album
+- **Working contact form** powered by Formspree
+- **Interactive UI** including the `<LetterGlitch />` component from [ReactBits.dev](https://www.reactbits.dev/)
+
+## **Stack**  
+### **Frontend**  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+### **Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-c900c3?logo=canva&logoColor=white)
+
+## **Configuration Guides**
+
+### **Show your favorite Spotify album (or your own)** ![Spotify](https://img.shields.io/badge/Spotify-06cc1a?logo=spotify&logoColor=white)
+1. Choose your Spotify album
+2. Access the share options
+3. Select 'copy embed code'
+```html
+<iframe src="https://open.spotify.com/embed/album/YOUR_ALBUM_ID_HERE" style="border-radius:12px border:0;" class="w-full h-40" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+```
+4. Insert the embed code on `src/Components/footer.astro`
+
+### **Set up contact form (Formspree)** ![Formspree](https://img.shields.io/badge/Formspree-E21A28?logo=formspree&logoColor=white)
+1. Create an account on [Formspree](https://formspree.io/)
+2. Create a new project/form and copy your form endpoint URL (it looks like `https://formspree.io/f/your_id`)
+3. Open the `src/Components/contact.astro` file
+4. Replace the `action` attribute in the `<form>` tag with your endpoint URL:
+```html
+<form action="https://formspree.io/f/YOUR_FORM_ID_HERE" method="POST">
+```
+
+## **Customization Checklist**
+Before deploying your own instance, make sure to update these placeholder values with your real information:
+- **`src/layouts/Layout.astro`**: Update `title`, `description`, `canonical` URL, `og` tags, and the JSON-LD schema with your own details.
+- **`src/components/home.astro`**: Change the greeting "Your Name" and update the GitHub, LinkedIn, and email URLs.
+- **`src/components/projects.astro`**: Replace the generic projects (Project One, etc.) with your own, including titles, descriptions and links.
+- **`src/components/footer.astro`**: Update the social links, change the Spotify iframe to your playlist, and update the copyright name.
+
+## **Customization**
+To make this portfolio your own, you can edit the following files:
+- **Global Settings:** Update metadata and title in `src/layouts/Layout.astro`.
+- **Content:** Modify the text, links, and details inside the components in `src/Components/` (e.g., `home.astro`, `projects.astro`, `contact.astro`).
+- **Styling:** The design uses Tailwind CSS. You can adjust the theme configuration in `tailwind.config.mjs` and custom styles if needed.
+
+## **Project structure**
+```text
+public/
+└── svg/
+src/
+├── Components/
+|    ├── contact.astro
+|    ├── footer.astro
+|    ├── home.astro
+|    ├── logoWall.astro
+|    ├── nav.astro
+|    └── projects.astro
+├── layouts/
+|    └── Layout.astro
+├── React/
+|    ├── LetterGlitch.tsx
+|    ├── LikeButton.tsx
+|    └── SkillsList.tsx
+└── pages/
+     └── index.astro
+```
+
+## **Local configuration** 
+
+### Prerequisites
+- **Node.js** (v18 or higher recommended)
+- **npm** or **pnpm**
+
+1. Clone the repo:  
+```bash
+git clone https://github.com/Gothsec/dark-minimal
+```
+2. Install dependencies:
+```bash  
+npm install
+```
+3. Start the development server:
+```bash  
+npm run dev
+```
+
+## **Deployment**
+This project is built with Astro and can be easily deployed to Vercel, Netlify, or GitHub Pages. For the easiest setup, push your repository to GitHub and import it directly into [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/).
+ 
+> This project is licensed under the [MIT License](https://opensource.org/licenses/mit). 
