@@ -7,9 +7,9 @@
     "types": [
       "astro/client"
     ],
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "esModuleInterop": true,
-    "baseUrl": ".",
+    "baseUrl": "https://bajiff.vercel.app",
     "paths": {
       "@/*": [
         "src/*"
